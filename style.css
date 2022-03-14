@@ -3,3 +3,12 @@ footer {
     margin-bottom: 0;
     height: 40vh;
 }
+
+#carousel img{
+    height: calc(90vh);
+}
+
+#wedding-plus{
+    border-radius: 20px;
+    background-image: url(icons/watermark.svg);
+}
